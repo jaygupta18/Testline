@@ -5,7 +5,7 @@ Frontend: https://testlineclient.vercel.app/
 
 Backend API: https://testline-backend-co5x.onrender.com/api/result
 
-https://github.com/jaygupta18/Testline/blob/cd24ec3be2f54ef17757e45e70d3f48c4dffb35a/React%20App%20-%20Brave%2001-02-2025%2019_41_52.png4
+![image_alt](https://github.com/jaygupta18/Testline/blob/8d302993ab3f7d86d422371155cb495c749fba62/React%20App%20-%20Brave%2001-02-2025%2019_41_52.png)
 
 Features
 Interactive Quiz: Answer multiple-choice questions and get instant feedback.
