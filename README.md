@@ -37,14 +37,14 @@ git clone https://github.com/jaygupta18/Testline.git --
 run command -- cd client
 Install Dependencies:
 
-run command --  npm install
+run command -  npm install-
 Run the Development Server:
 
-run command --  npm run start
+run command -  npm run start -
 The app will be running at http://localhost:3000.
 
 Backend:
-run command -- 
+run command - 
 cd backend
 run command --
 npm install
@@ -52,9 +52,9 @@ Set Up Environment Variables:
 Create a .env file in the root directory and add the following:
 
 MONGODB_URI=your_mongodb_connection_string
-Run the Server --
+Run the Server -
 node index.js
-
+-
 The backend will be running at http://localhost:5000.
 
 API Endpoint:
