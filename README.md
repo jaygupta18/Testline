@@ -37,20 +37,22 @@ git clone https://github.com/jaygupta18/Testline.git --
 run command -- cd client
 Install Dependencies:
 
-npm install
+run command --  npm install
 Run the Development Server:
 
-npm run start
+run command --  npm run start
 The app will be running at http://localhost:3000.
 
-Backend--
-cd backend--
+Backend:
+run command -- 
+cd backend
+run command --
 npm install
-Set Up Environment Variables:
+Set Up Environment Variables: 
 Create a .env file in the root directory and add the following:
 
 MONGODB_URI=your_mongodb_connection_string
-Run the Server--
+Run the Server --
 node index.js
 
 The backend will be running at http://localhost:5000.
@@ -74,8 +76,12 @@ View Results:
 
 After completing the quiz, you'll see your score, accuracy.
 
-Contributing
-We welcome contributions! If you'd like to contribute to this project, follow these steps:
+
+GAMIFICATION FEATURES :-
+1) A timer will start when users will start the quiz or move to the next questions .
+2) Score will be displayed at the left side of the page whole time .
+3) When users gives the right answer the feedback mechanism works and displayed "congratulations,keep it up" and when users gives wrong answers it will encourageand  show "try again"
+4) Result will be displayed when user finishes the test .
 
 
 
