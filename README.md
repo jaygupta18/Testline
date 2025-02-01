@@ -33,8 +33,8 @@ Project Setup
 Frontend Setup
 Clone the Repository:
 
-git clone https://github.com/jaygupta18/Testline.git
-cd client
+git clone https://github.com/jaygupta18/Testline.git --
+run command -- cd client
 Install Dependencies:
 
 npm install
@@ -43,15 +43,14 @@ Run the Development Server:
 npm run start
 The app will be running at http://localhost:3000.
 
-Backend
-cd backend
-
+Backend--
+cd backend--
 npm install
 Set Up Environment Variables:
 Create a .env file in the root directory and add the following:
 
 MONGODB_URI=your_mongodb_connection_string
-Run the Server
+Run the Server--
 node index.js
 
 The backend will be running at http://localhost:5000.
