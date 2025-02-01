@@ -1,5 +1,5 @@
 import axios from "axios";
-const API_URL = "https://testline-server-1.onrender.com/api";
+const API_URL = "https://testline-backend-co5x.onrender.com/api";
 export const fetchQuizData = async () => {
   try {
     const response = await axios({
