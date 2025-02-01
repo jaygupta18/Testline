@@ -7,6 +7,7 @@ Backend API: https://testline-backend-co5x.onrender.com/api/result
 
 ![image_alt](https://github.com/jaygupta18/Testline/blob/8d302993ab3f7d86d422371155cb495c749fba62/React%20App%20-%20Brave%2001-02-2025%2019_41_52.png)
 
+![image_alt](https://github.com/jaygupta18/Testline/blob/8d79c4c11272ac77cfea5b74472e728da58382a0/React%20App%20-%20Brave%2001-02-2025%2019_44_21.png)
 Features
 Interactive Quiz: Answer multiple-choice questions and get instant feedback.
 
